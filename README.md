@@ -2,25 +2,22 @@
 
 This repository contains the Python source code and Jupyter notebooks for the Bachelor's thesis titled "Brain Tumor Detection and Classification Using CNN," developed by MD KAMRUL ISLAM under the supervision of Prof. Chen Jie.
 
-
-# Overview
+## Overview
 
 This project aims to enhance the accuracy of brain tumor detection through advanced Convolutional Neural Networks (CNNs). Utilizing T1-weighted contrast-enhanced MRI images, the CNN model classifies tumors into four categories: meningioma, glioma, pituitary tumor, and no tumor. Our model outperforms traditional models with higher accuracy and lower computational demands.
 
-# Repository Structure
+## Repository Structure
+
+```plaintext
 /
 ├── src/
-│   ├── CNN_Model.ipynb  # Jupyter notebook for the CNN model
+│   ├── trained_cnn_model.ipynb 
 │   └── data_preprocessing.py  # Data preprocessing scripts
 └── README.md
 
-# Installation
-Install required Python packages:
-pip install -r requirements.txt
-
 # Usage
 
-To run the model, open the CNN_Model.ipynb in Jupyter Notebook or JupyterLab and execute the cells sequentially. Ensure that the dataset is located in the correct directory as specified in the notebook.
+To run the model, open the trained_cnn_model.ipynb in Jupyter Notebook or JupyterLab and execute the cells sequentially. Ensure that the dataset is located in the correct directory as specified in the notebook.
 
 # Data
 
