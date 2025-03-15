@@ -32,3 +32,7 @@ Our CNN model achieved a validation accuracy surpassing traditional architecture
 │   ├── trained_cnn_model.ipynb 
 │   └── data_preprocessing.py  # Data preprocessing scripts
 └── README.md
+```
+
+## Acknowledgements
+I would like to express my sincere gratitude to my supervisor Prof. Chen Jie, for his invaluable guidance, continuous support, and insightful feedback throughout the development of the capstone project. His mentorship greatly enhanced the quality and success of our work.
