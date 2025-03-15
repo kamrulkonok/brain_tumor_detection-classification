@@ -1,12 +1,10 @@
 # Brain Tumor Detection and Classification By Using CNN
 
-This repository contains the Python source code and Jupyter notebooks for the Bachelor's thesis titled "Brain Tumor Detection and Classification Using CNN," developed by MD KAMRUL ISLAM under the supervision of Prof. Chen Jie.
+This repository contains the Python source code and Jupyter notebooks for my Bachelor's thesis titled "Brain Tumor Detection and Classification using CNN".
 
 ## Overview
 
 This project aims to enhance the accuracy of brain tumor detection through advanced Convolutional Neural Networks (CNNs). Utilizing T1-weighted contrast-enhanced MRI images, the CNN model classifies tumors into four categories: meningioma, glioma, pituitary tumor, and no tumor. Our model outperforms traditional models with higher accuracy and lower computational demands.
-
-
 
 ## Usage
 
